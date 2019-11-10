@@ -1,0 +1,130 @@
+{
+    "name": "Gleb Lobov",
+    "meta": {
+        "format": "FRESH@0.6.0",
+        "version": "0.5.0"
+    },
+    "info": {
+        "label": "Software Engineer",
+        "characterClass": "Programmer",
+        "brief": "Developer with high interest in functional programming and CI/CD. Keen to learn and share gained knowledge.",
+        "image": "face.jpg"
+    },
+    "contact": {
+        "phone": "+48793179731",
+        "email": "lobzison@gmail.com"
+    },
+    "location": {
+        "city": "Krakow",
+        "country": "Poland"
+    },
+    "social": [
+        {
+            "label": "GitHub",
+            "user": "lobzison",
+            "network": "GitHub",
+            "url": "https://github.com/lobzison"
+        }
+    ],
+    "employment": {
+        "history": [
+            {
+                "employer": "EPAM",
+                "position": "Senior Software Developer",
+                "summary": "Developer with a focus on a CI/CD in a Data Warehousing project for investment bank",
+                "start": "2017-09",
+                "keywords": [
+                    "Python",
+                    "Java",
+                    "SQL",
+                    "git",
+                    "Agile",
+                    "bash",
+                    "TeamCity"
+                ],
+                "highlights": [
+                    "Introduction of python as a main scripting language of project",
+                    "Key role in migration from git to svn, and establishment of CI culture",
+                    "Developed and integrated new approach of building database release artifact. 40 times reduction in artifact size, 5 times increase in build speed",
+                    "Developed java integration service of DB and MQ",
+                    "Everyday ETL work on a billion records database"
+                ]
+            },
+            {
+                "employer": "Intellex",
+                "position": "Lead Software Developer",
+                "summary": "Started as a junior, grew to lead a tiny team of a Data Warehouse for document automation system",
+                "start": "2012-07",
+                "end": "2017-09",
+                "keywords": [
+                    "SQL",
+                    "PL/SQL",
+                    "Delphi",
+                    "VBA"
+                ],
+                "highlights": [
+                    "Managed a 3-person development team",
+                    "Data mart creation and optimization for optimal user experience"
+                ]
+            }
+        ]
+    },
+    "education": {
+        "level": "specialist",
+        "degree": "Applied IT in economy",
+        "history": [
+            {
+                "institution": "National Research Nuclear University MEPhI",
+                "title": "Applied IT in economy",
+                "start": "2009-09",
+                "end": "2014-06"
+            },
+            {
+                "institution": "MOOC's",
+                "summary": "Various coursera and edx courses",
+                "curriculum": [
+                    "Big Data specialization",
+                    "Fundamentals of computing",
+                    "Programming languages",
+                    "scala-reactiveX: Programming Reactive Systems"
+                ]
+            }
+        ]
+    },
+    "speaking": [
+        {
+            "title": "Functional Programming and SQL",
+            "role": "Speaker",
+            "event": "Lunch and Learn(workplace meetup)",
+            "summary": "Exploring a bit of PL history, and similarities and differences between functional paradigm and SQL's select"
+        },
+        {
+            "title": "Actor model 101",
+            "role": "Speaker",
+            "event": "Lunch and Learn(workplace meetup)",
+            "summary": "Explaining idea of actors as a concurrency model"
+        }
+    ],
+    "languages": [
+        {
+          "language": "Russian",
+          "level": "Native"
+        },
+        {
+          "language": "English",
+          "level": "B2+",
+          "years": 10
+        }
+      ],
+      "extracurricular": [
+        {
+          "title": "NYET IT Club",
+          "activity": "Founded small club, to share my knowledge IT with friends in a form of a online meetups, with lectures and homework. All material prepared from scratch",
+          "start": "2017-01",
+          "highlights": [
+            "Python and oop principles introduction course. This helped one of the members to acquire python developer position",
+            "SQL introduction course"
+          ]
+        }
+      ]
+}
