@@ -1,6 +1,6 @@
 before_script:
   - npm install -g hackmyresume
-script: hackmyresume build resume.json TO out/resume.html -t positive
+script: hackmyresume build resume.json TO out/index.html -t positive
 deploy:
   provider: pages
   skip_cleanup: true
