@@ -54,7 +54,7 @@
             {
                 "employer": "Intellex",
                 "position": "Lead Software Developer",
-                "summary": "Started as a junior, grew to lead a tiny team of a Data Warehouse for document automation system",
+                "summary": "Started as a junior, grew to lead of a team in the Data Warehouse, tasked with document automation system development",
                 "start": "2012-07",
                 "end": "2017-09",
                 "location": "Moscow, Russia",
@@ -66,7 +66,7 @@
                 ],
                 "highlights": [
                     "Managed a 3-person development team",
-                    "Data mart creation and optimization for optimal user experience"
+                    "Data mart creation and fine-tuning for optimal user experience"
                 ]
             }
         ]
