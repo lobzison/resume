@@ -1,181 +1,192 @@
 {
-    "name": "Gleb Lobov",
-    "meta": {
-        "format": "FRESH@0.6.0",
-        "version": "0.5.0"
-    },
-    "info": {
-        "label": "Software Engineer",
-        "characterClass": "Programmer",
-        "brief": "Developer excited about functional programming and CI/CD. Keen to learn and share gained knowledge",
-        "image": "face.jpg"
-    },
-    "contact": {
-        "phone": "+48793179731",
-        "email": "lobzison@gmail.com"
-    },
-    "location": {
-        "city": "Krakow",
-        "country": "Poland"
-    },
-    "social": [
-        {
-            "label": "GitHub",
-            "user": "lobzison",
-            "network": "GitHub",
-            "url": "https://github.com/lobzison"
-        }
-    ],
-    "employment": {
-        "history": [
-            {
-                "employer": "EPAM",
-                "position": "Senior Software Developer",
-                "summary": "Developer with a focus on a CI/CD in a Data Warehousing project for investment bank",
-                "start": "2017-09",
-                "location": "Krakow, Poland",
-                "keywords": [
-                    "Python",
-                    "Java",
-                    "SQL",
-                    "git",
-                    "Agile",
-                    "bash",
-                    "TeamCity"
-                ],
-                "highlights": [
-                    "Developed and integrated new approach of building database release artifact. Forty times reduction in artifact size, five times increase in build speed",
-                    "Developed java integration service of DB and MQ",
-                    "Key role in migration from git to svn, and establishment of CI culture",
-                    "Introduction of python as a main scripting language of project",
-                    "Everyday ETL work on a billion records database"
-                ]
-            },
-            {
-                "employer": "Intellex",
-                "position": "Lead Software Developer",
-                "summary": "Started as a junior, grew to lead of a team in the Data Warehouse, tasked with document automation system development",
-                "start": "2012-07",
-                "end": "2017-09",
-                "location": "Moscow, Russia",
-                "keywords": [
-                    "SQL",
-                    "PL/SQL",
-                    "Delphi",
-                    "VBA"
-                ],
-                "highlights": [
-                    "Managed a 3-person development team",
-                    "Data mart creation and fine-tuning for optimal user experience"
-                ]
-            }
+  "name": "Gleb Lobov",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.5.0"
+  },
+  "info": {
+    "label": "Software Engineer",
+    "characterClass": "Programmer",
+    "brief": "Engineer excited about functional programming, infrastructure and microservices. Keen to learn and share gained knowledge",
+    "image": "face.jpg"
+  },
+  "contact": {
+    "phone": "+4917641793179",
+    "email": "lobzison@gmail.com"
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "user": "lobzison",
+      "network": "GitHub",
+      "url": "https://github.com/lobzison"
+    }
+  ],
+  "employment": {
+    "history": [
+      {
+        "employer": "Zalando",
+        "position": "Senior Software Engineer",
+        "summary": "Engineering reliable solutions in a highly dynamic team with a lot of stakeholders",
+        "start": "2020-02",
+        "location": "Berlin, Germany",
+        "keywords": [
+          "Scala",
+          "Python",
+          "PostgresQL",
+          "k8s",
+          "Event Sourcing",
+          "microservices"
+        ],
+        "highlights": [
+          "Managing stakeholders in a central team: our data is consumed by around 100 other services",
+          "Engineering solutions end to end: problem statement, solution design, implementation, support",
+          "Leading scrum meetings, such as Engineering Refinements, Standups, Retros, Demos",
+          "24/7 support rotation, general OpEx: monitoring, tracing, alerting",
+          "Scalability and high load, form 100 RPS to 8000 RPS during sales events",
+          "Engineering internal library for functional Scala in Zalando"
         ]
-    },
-    "education": {
-        "level": "specialist",
-        "degree": "Applied IT in economy",
-        "history": [
-            {
-                "institution": "National Research Nuclear University MEPhI",
-                "title": "Applied IT in economics",
-                "start": "2009-09",
-                "end": "2014-06",
-                "location": "Moscow, Russia"
-            },
-            {
-                "institution": "MOOCs",
-                "summary": "Various coursera and edx courses",
-                "start": "2017",
-                "curriculum": [
-                    "Big Data specialization,",
-                    "Fundamentals of computing,",
-                    "Programming languages,",
-                    "scala-reactiveX: Programming Reactive Systems"
-                ]
-            }
+      },
+      {
+        "employer": "EPAM",
+        "position": "Senior Software Developer",
+        "summary": "Developer with a focus on a CI/CD in a Data Warehousing project for investment bank",
+        "start": "2017-09",
+        "end": "2019-11",
+        "location": "Krakow, Poland",
+        "keywords": ["Python", "Java", "SQL", "git"],
+        "highlights": [
+          "Developed and integrated new approach of building database release artifact. Forty times reduction in artifact size, five times increase in build speed",
+          "Developed java integration service of DB and MQ",
+          "Everyday ETL work on a billion records database"
         ]
+      },
+      {
+        "employer": "Intellex",
+        "position": "Lead Software Developer",
+        "summary": "Started as a junior, grew to lead of a team in the Data Warehouse, tasked with document automation system development",
+        "start": "2012-07",
+        "end": "2017-09",
+        "location": "Moscow, Russia",
+        "keywords": ["SQL", "PL/SQL", "Delphi", "VBA"],
+        "highlights": [
+          "Managed a 3-person development team",
+          "Data mart creation and fine-tuning for optimal user experience"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "specialist",
+    "degree": "Applied IT in economy",
+    "history": [
+      {
+        "institution": "National Research Nuclear University MEPhI",
+        "title": "Applied IT in economics",
+        "start": "2009-09",
+        "end": "2014-06",
+        "location": "Moscow, Russia"
+      },
+      {
+        "institution": "MOOCs",
+        "summary": "Various coursera and edx courses",
+        "start": "2017",
+        "curriculum": [
+          "Big Data specialization,",
+          "Fundamentals of computing,",
+          "Programming languages,",
+          "scala-reactiveX: Programming Reactive Systems"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Scala",
+        "level": "8",
+        "skills": ["FP", "Tagless Final", "http4s", "cats", "fs2", "doobie"]
+      },
+      {
+        "name": "Database",
+        "level": "8",
+        "skills": ["PostgresQL", "SQL", "redis"]
+      },
+      {
+        "name": "Web",
+        "level": "8",
+        "skills": ["REST", "HTTP", "JSON", "Streaming"]
+      },
+      {
+        "name": "Observability",
+        "level": "7",
+        "skills": ["OpenAPI", "OpenTelemetry", "Grafana"]
+      },
+      {
+        "name": "Infrastructure",
+        "level": "7",
+        "skills": ["k8s", "docker"]
+      },
+      {
+        "name": "Python",
+        "level": "7",
+        "skills": ["click", "requests", "mypy"]
+      }
+    ]
+  },
+  "speaking": [
+    {
+      "title": "Using shared libraries",
+      "role": "Speaker",
+      "event": "OpEx day (workplace meetup)",
+      "date": "2022",
+      "summary": "Overview of the internal library, in context of OpEx. Overview of tracing approaches in libraries"
     },
-    "skills": {
-        "sets": [
-            {
-              "name": "Scala",
-              "level": "6",
-              "skills": [
-                "FP", "akka", "Http4s", "cats", "circe"
-              ]
-            },
-            {
-                "name": "Python",
-                "level": "7",
-                "skills": [
-                    "Click", "pathlib", "requests", "mypy"
-                ]
-            },
-            {
-                "name": "Database",
-                "level": "9",
-                "skills": [
-                    "SQL", "PL/SQL", "redis", "SwayDB"
-                ]
-            },
-            {
-                "name": "Web",
-                "level": "9",
-                "skills": [
-                    "REST", "HTTP", "JSON"
-                ]
-            },
-            {
-                "name": "CI/CD",
-                "level": "5",
-                "skills": [
-                    "git", "TeamCity", "docker"
-                ]
-            }
-          ]
+    {
+      "title": "Functional Programming and SQL",
+      "role": "Speaker",
+      "event": "Lunch and Learn (workplace meetup)",
+      "date": "2018",
+      "summary": "Exploring a bit of PL history, similarities and differences between functional paradigm and SQL's select"
     },
-    "speaking": [
-        {
-            "title": "Functional Programming and SQL",
-            "role": "Speaker",
-            "event": "Lunch and Learn git (workplace meetup)",
-            "date": "2018",
-            "summary": "Exploring a bit of PL history, similarities and differences between functional paradigm and SQL's select"
-        },
-        {
-            "title": "Actor model 101",
-            "role": "Speaker",
-            "event": "Lunch and Learn (workplace meetup)",
-            "date": "2019",
-            "summary": "Explaining idea of actors as a concurrency model"
-        }
-    ],
-    "languages": [
-        {
-          "language": "Russian",
-          "level": "Native"
-        },
-        {
-          "language": "English",
-          "level": "B2+",
-          "years": 10
-        }
-      ],
-      "extracurricular": [
-        {
-          "title": "NYET IT Club",
-          "activity": "Founded small club, to share my IT knowledge with friends in a form of online meetups, with lectures and homework. All material prepared from scratch",
-          "start": "2017-01",
-          "highlights": [
-            "Python and OOP principles introduction course. This helped one of the members to acquire python developer position",
-            "SQL introduction course"
-          ]
-        },
-        {
-            "title": "Scala Russia 2019",
-            "activity": "Conference participant",
-            "start": "2019-09",
-            "end": "2019-09"
-        }
+    {
+      "title": "Actor model 101",
+      "role": "Speaker",
+      "event": "Lunch and Learn (workplace meetup)",
+      "date": "2019",
+      "summary": "Explaining idea of actors as a concurrency model"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "B2+",
+      "years": 10
+    }
+  ],
+  "extracurricular": [
+    {
+      "title": "NYET IT Club",
+      "activity": "Founded small club, to share my IT knowledge with friends in a form of online meetups, with lectures and homework. All material prepared from scratch",
+      "start": "2017-01",
+      "highlights": [
+        "Python and OOP principles introduction course. This helped one of the members to acquire python developer position",
+        "SQL introduction course"
       ]
+    },
+    {
+      "title": "Scala Russia 2019",
+      "activity": "Conference participant",
+      "start": "2019-09",
+      "end": "2019-09"
+    }
+  ]
 }
